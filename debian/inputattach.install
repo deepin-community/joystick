@@ -1,0 +1,3 @@
+debian/40inputattach usr/lib/pm-utils/sleep.d
+usr/bin/inputattach
+usr/share/man/man1/inputattach.1
